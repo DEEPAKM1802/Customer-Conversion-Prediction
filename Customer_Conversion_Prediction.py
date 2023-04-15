@@ -2,9 +2,8 @@
 # coding: utf-8
 
 # # Customer Conversion Prediction
+
 # ### 1. Importing important libraries
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 # Importing the important libraries
